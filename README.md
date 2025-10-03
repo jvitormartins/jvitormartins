@@ -1,8 +1,9 @@
 # Bem-vindo ao perfil de João Vitor Martins 👋
 
 ## Sobre mim
-Professor de Matemática da Educação Básica na rede estadual do Paraná | Graduando em Ciência de Dados  
-Apaixonado por educação, tecnologia, análise de dados e projetos que geram impacto na aprendizagem dos alunos. Busco integrar recursos digitais e metodologias inovadoras à prática pedagógica, estimulando o pensamento crítico por meio da Matemática.
+Professor de Matemática da Educação Básica na Rede Estadual do Paraná | Graduando em Ciência de Dados  
+Apaixonado por educação, tecnologia, análise de dados e projetos que geram impacto na aprendizagem dos alunos. 
+Busco integrar recursos digitais e metodologias inovadoras à prática pedagógica, estimulando o pensamento crítico por meio da Matemática.
 
 ---
 
@@ -32,9 +33,10 @@ Apaixonado por educação, tecnologia, análise de dados e projetos que geram im
 
 ## 📫 Como me encontrar
 
-- **LinkedIn:** [linkedin.com/in/jvitormartins](https://www.linkedin.com/in/jvitormartins/)
-- **GitHub:** github.com/jvitormartins
-- Email institucional da Educação PR
+- **[LinkedIn:]** [linkedin.com/in/jvitormartins](https://www.linkedin.com/in/jvitormartins/)
+- **GitHub:** [Repositorio Principl] (github.com/jvitormartins)
+- Email institucional da Educação PR: jvitormartins@escola.pr.gov.br
+- Email Principal: ferraz.vm@gmail.com
 
 ---
 
