@@ -65,6 +65,8 @@
 
 ---
 
+<div align="center">
+
 ## 💻 Tecnologias & Ferramentas
 
 ### 👨‍💻 Linguagens de Programação ⏳
@@ -94,7 +96,11 @@
 ![GeoGebra](https://img.shields.io/badge/-GeoGebra-6C3483?style=flat-square&logo=geogebra&logoColor=white)
 ![Khan Academy](https://img.shields.io/badge/-Khan_Academy-14BF96?style=flat-square&logo=khanacademy&logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🔭 Projetos em Destaque
 
@@ -102,7 +108,11 @@
 
 > Plataforma interativa de estudos em Ciência de Dados com tutoriais, exercícios e recursos didáticos
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🧠 Atualmente Estudando
 
@@ -120,7 +130,11 @@
 - 🤖 **ChatGPT API e Langchain**
 - 📐 **GeoGebra Advanced e LaTeX**
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📫 Como Me Encontrar
 
@@ -134,6 +148,8 @@
 
 🏫 **E-mail Institucional**: [jvitormartins@escola.pr.gov.br](mailto:jvitormartins@escola.pr.gov.br)
 
+</div>
+
 ---
 
 ## 📈 Atividade de Contribuição
@@ -141,6 +157,8 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jvitormartins&theme=tokyo-night&hide_border=true&area=true)
 
 ---
+
+<div align="center">
 
 ## 🎯 Objetivos 2025
 
@@ -153,7 +171,11 @@
 - [ ] Publicar artigos sobre tecnologia na educação
 - [ ] Atingir 100+ contribuições no GitHub
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 💭 Filosofia
 
@@ -161,8 +183,14 @@
 
 #### 🌟 Acredito no poder dos dados para criar soluções inteligentes que democratizam o conhecimento e inspirem a próxima geração de pensadores críticos. 🌟
 
+</div>
+
 ---
+
+<div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=jvitormartins&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil)
 
 **Obrigado pela visita! Vamos transformar a educação juntos! 🚀📚**
+
+</div>
