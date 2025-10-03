@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem-vindo ao repositório principal - J. Vitor Martins
 
-<!--
-**jvitormartins/jvitormartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Sobre mim
 
-Here are some ideas to get you started:
+Professor de Matemática da Educação Básica na rede estadual do Paraná | Graduação em Ciência de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 O que estou fazendo
+- Trabalhando com análise de dados educacionais
+- Desenvolvendo projetos em HTML, CSS e JavaScript
+- Estudando Ciência de Dados
+
+### 📊 Meus Repositórios
+Confira meus projetos relacionados a educação e análise de dados!
+
+### 📫 Como me encontrar
+- LinkedIn: [linkedin.com/in/jvitormartins](https://www.linkedin.com/in/jvitormartins/)
