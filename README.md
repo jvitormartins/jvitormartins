@@ -42,8 +42,7 @@ Busco integrar recursos digitais e metodologias inovadoras à prática pedagógi
 
 ## 📊 Atividade
 
-- Mais de 80 contribuições no último ano com foco em projetos educacionais e análise de dados!
-- Gráfico de contribuições visível no perfil do GitHub.
+- [...]
 
 ---
 
