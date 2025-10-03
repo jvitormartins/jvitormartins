@@ -64,7 +64,6 @@
 
 ### 🛠️ Ferramentas & Plataformas
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/-Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -83,17 +82,6 @@
 ### 📚 [DataSteps](https://github.com/jvitormartins/DataSteps)
 > Plataforma interativa de estudos em Ciência de Dados com tutoriais, exercícios e recursos didáticos
 
-### 📊 [Dashboard Prova Paraná](https://github.com/jvitormartins/dashboard-prova-parana)
-> Dashboard interativo para análise de desempenho educacional da Prova Paraná 2025
-
-### 📝 [Análise SAEB 2025 - 9º Ano](https://github.com/jvitormartins/Caderno-de-Questoes-SAEB-2025-9ANO)
-> Análise interativa do Caderno de Questões SAEB 2025 para apoio pedagógico
-
-### 💰 [Planilha Finanças Pessoais](https://github.com/jvitormartins/planilha-financas-pessoais)
-> Aplicação web desenvolvida com HTML, CSS e JavaScript para controle financeiro pessoal
-
-### 📈 [Análise Prova Paraná 2ª Edição](https://github.com/jvitormartins/prova-pr-2ed-mat)
-> Projeto de análise das questões de matemática da 2ª Edição da Prova Paraná 2025
 
 </div>
 
@@ -111,7 +99,9 @@ learning_path = {
 }
 ```
 
+- 🤖 **Inteligência Artificial**
 - 🤖 **Inteligência Artificial aplicada à Educação**
+- 📊 **Análise de dados**
 - 📊 **Análise avançada de dados educacionais**
 - 🎨 **Visualização de dados interativa com Python e Power BI**
 - 🌐 **Desenvolvimento de plataformas educacionais web**
