@@ -40,7 +40,7 @@ Graduando em Ciência de Dados e Análise de Comportamento pela Faculdade [Unice
 - **GitHub:** [Repositorio Principl](github.com/jvitormartins)
 - **Email** institucional da Educação PR: jvitormartins@escola.pr.gov.br
 - **Email** Principal: ferraz.vm@gmail.com
-- **Instagram**: [jvitor3.14](https://www.instagram.com/jvitor3.14/)
+- **Instagram:** [jvitor3.14](https://www.instagram.com/jvitor3.14/)
 
 ---
 
