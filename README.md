@@ -32,13 +32,34 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvitormartins&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+</td>
+<td>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvitormartins&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jvitormartins&theme=tokyonight&hide_border=true)
 
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=jvitormartins&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -46,7 +67,7 @@
 
 ## 💻 Tecnologias & Ferramentas
 
-### 👨‍💻 Linguagens de Programação
+### 👨‍💻 Linguagens de Programação ⏳
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -54,7 +75,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 📊 Ciência de Dados & Análise
+### 📊 Ciência de Dados & Análise ⏳
 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -62,13 +83,13 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### 🛠️ Ferramentas & Plataformas
+### 🛠️ Ferramentas e Plataformas ✅
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/-Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
 
-### 🎓 Educação & Matemática
+### 🎓 Educação e Matemática ✅
 
 ![GeoGebra](https://img.shields.io/badge/-GeoGebra-6C3483?style=flat-square&logo=geogebra&logoColor=white)
 ![Khan Academy](https://img.shields.io/badge/-Khan_Academy-14BF96?style=flat-square&logo=khanacademy&logoColor=white)
@@ -77,27 +98,13 @@
 
 ## 🔭 Projetos em Destaque
 
-<div align="center">
-
 ### 📚 [DataSteps](https://github.com/jvitormartins/DataSteps)
+
 > Plataforma interativa de estudos em Ciência de Dados com tutoriais, exercícios e recursos didáticos
-
-
-</div>
 
 ---
 
 ## 🧠 Atualmente Estudando
-
-```python
-learning_path = {
-    "Data_Science": ["Machine Learning", "Deep Learning", "NLP"],
-    "Educational_Analytics": ["Learning Analytics", "Educational Data Mining"],
-    "Web_Development": ["React", "Node.js", "API Development"],
-    "AI_Tools": ["ChatGPT API", "Langchain", "AI in Education"],
-    "Math_Tech": ["GeoGebra Advanced", "LaTeX", "Mathematical Visualization"]
-}
-```
 
 - 🤖 **Inteligência Artificial**
 - 🤖 **Inteligência Artificial aplicada à Educação**
@@ -107,32 +114,31 @@ learning_path = {
 - 🌐 **Desenvolvimento de plataformas educacionais web**
 - 🔬 **Metodologias ativas e gamificação no ensino de Matemática**
 - 📱 **Tecnologias educacionais e recursos digitais inovadores**
+- 🧠 **Machine Learning e Deep Learning**
+- 💬 **Processamento de Linguagem Natural (NLP)**
+- ⚛️ **React e Node.js**
+- 🤖 **ChatGPT API e Langchain**
+- 📐 **GeoGebra Advanced e LaTeX**
 
 ---
 
 ## 📫 Como Me Encontrar
 
-<div align="center">
+💼 **LinkedIn**: [linkedin.com/in/jvitormartins](https://www.linkedin.com/in/jvitormartins/)
 
-| Plataforma | Link |
-|:---:|:---:|
-| 💼 **LinkedIn** | [linkedin.com/in/jvitormartins](https://www.linkedin.com/in/jvitormartins/) |
-| 💻 **GitHub** | [github.com/jvitormartins](https://github.com/jvitormartins) |
-| 📸 **Instagram** | [@jvitor3.14](https://www.instagram.com/jvitor3.14/) |
-| 📧 **Email Pessoal** | ferraz.vm@gmail.com |
-| 🏫 **Email Institucional** | jvitormartins@escola.pr.gov.br |
+💻 **GitHub**: [github.com/jvitormartins](https://github.com/jvitormartins)
 
-</div>
+📸 **Instagram**: [@jvitor3.14](https://www.instagram.com/jvitor3.14/)
+
+📧 **E-mail Pessoal**: [ferraz.vm@gmail.com](mailto:ferraz.vm@gmail.com)
+
+🏫 **E-mail Institucional**: [jvitormartins@escola.pr.gov.br](mailto:jvitormartins@escola.pr.gov.br)
 
 ---
 
 ## 📈 Atividade de Contribuição
 
-<div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jvitormartins&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
 
 ---
 
@@ -143,7 +149,7 @@ learning_path = {
 - [x] Publicar projetos de análise educacional
 - [ ] Concluir curso de Machine Learning
 - [ ] Desenvolver 5 dashboards educacionais interativos
-- [ ] Contribuir para projetos open-source educacionais
+- [ ] Contribuir para projetos educacionais de código aberto
 - [ ] Publicar artigos sobre tecnologia na educação
 - [ ] Atingir 100+ contribuições no GitHub
 
@@ -151,16 +157,12 @@ learning_path = {
 
 ## 💭 Filosofia
 
-<div align="center">
+### "A educação transforma realidades; a tecnologia amplifica esse impacto."
 
-### *"A educação transforma realidades; a tecnologia amplifica esse impacto."*
-
-#### 🌟 *Acredito no poder dos dados para criar soluções inteligentes que democratizam o conhecimento e inspiram a próxima geração de pensadores críticos.* 🌟
+#### 🌟 Acredito no poder dos dados para criar soluções inteligentes que democratizam o conhecimento e inspirem a próxima geração de pensadores críticos. 🌟
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=jvitormartins&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
+![Profile views](https://komarev.com/ghpvc/?username=jvitormartins&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil)
 
 **Obrigado pela visita! Vamos transformar a educação juntos! 🚀📚**
-
-</div>
