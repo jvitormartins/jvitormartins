@@ -18,9 +18,9 @@
 
 ## 🚀 Sobre Mim
 
-🔢 **Professor de Matemática** na Rede Estadual do Paraná (SEED-PR), dedicado a inovar a educação básica através da integração de tecnologia e metodologias ativas.
+🔢 **Professor de Matemática** na Rede Estadual do Paraná (SEED-PR). Dedicado a inovar a educação básica através da integração de tecnologia e metodologias ativas.
 
-📊 **Graduando em Ciência de Dados e Análise de Comportamento** pela [Unicesumar](https://www.unicesumar.edu.br/), explorando a interseção entre dados, educação e tecnologia.
+📊 **Graduando em Ciência de Dados e Análise de Comportamento** pela [Unicesumar](https://www.unicesumar.edu.br/). Explorando a interseção entre dados, educação e tecnologia.
 
 💡 Apaixonado por criar soluções que **impactam positivamente a aprendizagem**, utilizando análise de dados educacionais, visualização de informações e desenvolvimento de ferramentas digitais que estimulam o pensamento crítico e matemático.
 
