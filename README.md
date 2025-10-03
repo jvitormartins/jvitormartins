@@ -16,7 +16,11 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 Sobre Mim
+
+</div>
 
 🔢 **Professor de Matemática** na Rede Estadual do Paraná [SEED-PR](https://www.educacao.pr.gov.br/?utm_source=educacao&utm_medium=pagina_desvio&utm_campaign=desvio-seed&utm_id=desvio). Dedicado a inovar a educação básica através da integração de tecnologia e metodologias ativas.
 
@@ -28,7 +32,11 @@
 
 ---
 
+<div align="center">
+
 ## 📊 Estatísticas GitHub
+
+</div>
 
 <div align="center">
 
@@ -65,8 +73,6 @@
 
 ---
 
-<div align="center">
-
 ## 💻 Tecnologias & Ferramentas
 
 ### 👨‍💻 Linguagens de Programação ⏳
@@ -96,19 +102,12 @@
 ![GeoGebra](https://img.shields.io/badge/-GeoGebra-6C3483?style=flat-square&logo=geogebra&logoColor=white)
 ![Khan Academy](https://img.shields.io/badge/-Khan_Academy-14BF96?style=flat-square&logo=khanacademy&logoColor=white)
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🔭 Projetos em Destaque
 
 ### 📚 [DataSteps](https://github.com/jvitormartins/DataSteps)
-
 > Plataforma interativa de estudos em Ciência de Dados com tutoriais, exercícios e recursos didáticos
-
-</div>
 
 ---
 
@@ -116,19 +115,31 @@
 
 ## 🧠 Atualmente Estudando
 
-- 🤖 **Inteligência Artificial**
-- 🤖 **Inteligência Artificial aplicada à Educação**
-- 📊 **Análise de dados**
-- 📊 **Análise avançada de dados educacionais**
-- 🎨 **Visualização de dados interativa com Python e Power BI**
-- 🌐 **Desenvolvimento de plataformas educacionais web**
-- 🔬 **Metodologias ativas e gamificação no ensino de Matemática**
-- 📱 **Tecnologias educacionais e recursos digitais inovadores**
-- 🧠 **Machine Learning e Deep Learning**
-- 💬 **Processamento de Linguagem Natural (NLP)**
-- ⚛️ **React e Node.js**
-- 🤖 **ChatGPT API e Langchain**
-- 📐 **GeoGebra Advanced e LaTeX**
+🤖 **Inteligência Artificial**
+
+🤖 **Inteligência Artificial aplicada à Educação**
+
+📊 **Análise de dados**
+
+📊 **Análise avançada de dados educacionais**
+
+🎨 **Visualização de dados interativa com Python e Power BI**
+
+🌐 **Desenvolvimento de plataformas educacionais web**
+
+🔬 **Metodologias ativas e gamificação no ensino de Matemática**
+
+📱 **Tecnologias educacionais e recursos digitais inovadores**
+
+🧠 **Machine Learning e Deep Learning**
+
+💬 **Processamento de Linguagem Natural (NLP)**
+
+⚛️ **React e Node.js**
+
+🤖 **ChatGPT API e Langchain**
+
+📐 **GeoGebra Advanced e LaTeX**
 
 </div>
 
@@ -152,7 +163,11 @@
 
 ---
 
+<div align="center">
+
 ## 📈 Atividade de Contribuição
+
+</div>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jvitormartins&theme=tokyo-night&hide_border=true&area=true)
 
@@ -194,3 +209,8 @@
 **Obrigado pela visita! Vamos transformar a educação juntos! 🚀📚**
 
 </div>
+
+<!-- NOTA: A animação da snake SVG é gerada automaticamente pelo GitHub Actions.
+Para ajustar o caminho da snake para seguir apenas os quadradinhos brancos,
+você precisará modificar o arquivo .github/workflows/snake.yml e ajustar
+os parâmetros de geração do SVG no platane/snk action. -->
