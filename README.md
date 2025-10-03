@@ -22,7 +22,7 @@
 
 </div>
 
-🔢 **Professor de Matemática** na Rede Estadual do Paraná [SEED-PR](https://www.educacao.pr.gov.br/?utm_source=educacao&utm_medium=pagina_desvio&utm_campaign=desvio-seed&utm_id=desvio). Dedicado a inovar a educação básica através da integração de tecnologia e metodologias ativas.
+🔢 **Professor de Matemática** na Rede Estadual do Paraná [SEED-PR](https://www.educacao.pr.gov.br/desvio.html). Dedicado a inovar a educação básica através da integração de tecnologia e metodologias ativas.
 
 📊 **Graduando em Ciência de Dados e Análise de Comportamento** pela [Unicesumar](https://www.unicesumar.edu.br/). Explorando a interseção entre dados, educação e tecnologia.
 
@@ -210,7 +210,3 @@
 
 </div>
 
-<!-- NOTA: A animação da snake SVG é gerada automaticamente pelo GitHub Actions.
-Para ajustar o caminho da snake para seguir apenas os quadradinhos brancos,
-você precisará modificar o arquivo .github/workflows/snake.yml e ajustar
-os parâmetros de geração do SVG no platane/snk action. -->
