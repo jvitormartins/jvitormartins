@@ -10,18 +10,14 @@ Apaixonado por educação, tecnologia, análise de dados e projetos que geram im
 
 - **Matemática:** GeoGebra, Khan Academy, Google Workspace
 - **Programação:** Python, HTML, CSS, JavaScript, Power BI
-- **Git:** GitHub, Git, GitHub Desktop
-- **Dados:** SQL, análise de dados educacionais, planilhas
+- **Git:** GitHub, GitHub Desktop
+- **Dados:** SQL, Análise de dados educacionais, Planilhas
 
 ---
 
 ## 🔭 Projetos em destaque
 
-- [prova-pr-2ed-mat](https://github.com/jvitormartins/prova-pr-2ed-mat): Análise das questões de matemática da Prova Paraná
-- [dashboard-prova-parana](https://github.com/jvitormartins/dashboard-prova-parana): Dashboard para visualização dos resultados da Prova Paraná em HTML
 - [DataSteps](https://github.com/jvitormartins/DataSteps): Plataforma de estudos em Ciência de Dados
-- [Caderno-de-Questoes-SAEB-2025-9ANO](https://github.com/jvitormartins/Caderno-de-Questoes-SAEB-2025-9ANO): Análise interativa do Caderno de Questões SAEB
-- [planilha-financas-pessoais](https://github.com/jvitormartins/planilha-financas-pessoais): Planilha interativa para finanças pessoais (HTML, CSS, JavaScript)
 
 ---
 
@@ -29,7 +25,8 @@ Apaixonado por educação, tecnologia, análise de dados e projetos que geram im
 - Ciência de Dados aplicada à Educação
 - Visualização de dados e dashboards
 - Desenvolvimento web educacional
-- Integração entre Matemática e tecnologia
+- Integração entre Matemática e Tecnologia
+- Inteligencia Artificial
 
 ---
 
