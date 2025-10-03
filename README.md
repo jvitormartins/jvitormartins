@@ -34,7 +34,7 @@ Busco integrar recursos digitais e metodologias inovadoras à prática pedagógi
 ## 📫 Como me encontrar
 
 - **[LinkedIn:]** [linkedin.com/in/jvitormartins](https://www.linkedin.com/in/jvitormartins/)
-- **GitHub:** [Repositorio Principl] (github.com/jvitormartins)
+- **GitHub:** [Repositorio Principl](github.com/jvitormartins)
 - Email institucional da Educação PR: jvitormartins@escola.pr.gov.br
 - Email Principal: ferraz.vm@gmail.com
 
