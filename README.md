@@ -1,12 +1,13 @@
 # Bem-vindo ao perfil de João Vitor Martins 👋
 
 ## Sobre mim
-Professor de Matemática da Educação Básica na Rede Estadual do Paraná | Graduando em Ciência de Dados  
+- Professor de Matemática da Educação Básica na Rede Estadual do Paraná | Graduando em Ciência de Dados  
 Apaixonado por educação, tecnologia, análise de dados e projetos que geram impacto na aprendizagem dos alunos. 
 
-Busco integrar recursos digitais e metodologias inovadoras à prática pedagógica, estimulando o pensamento crítico por meio da Matemática.
+- Busco integrar recursos digitais e metodologias inovadoras à prática pedagógica, estimulando o pensamento crítico por meio da Matemática.
 
-Graduando em Ciência de Dados e Análise de Comportamento pela Faculdade [Unicesumar](https://www.unicesumar.edu.br/)
+- Graduando em Ciência de Dados e Análise de Comportamento pela Faculdade [Unicesumar](https://www.unicesumar.edu.br/)
+
 ---
 
 ## 🚀 Tecnologias e Ferramentas
