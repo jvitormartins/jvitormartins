@@ -133,8 +133,6 @@
 
 🧠 **Machine Learning e Deep Learning**
 
-💬 **Processamento de Linguagem Natural (NLP)**
-
 ⚛️ **React e Node.js**
 
 🤖 **ChatGPT API e Langchain**
